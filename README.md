@@ -11,9 +11,13 @@ geth源码阅读
 
 ## 阅读前置
 
-地址 [https://github.com/ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
+官方地址 [https://github.com/ethereum/go-ethereum](https://github.com/ethereum/go-ethereum)
 
 版本 **Gei Hinnom (v1.14.12)**
+
+代码阅读专用链接
+
+[https://github.com/namejlt/go-ethereum](https://github.com/namejlt/go-ethereum)
 
 
 ## 阅读路径
